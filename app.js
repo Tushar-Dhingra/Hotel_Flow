@@ -21,8 +21,7 @@ const reviewRoutes = require('./routes/reviews')
 
 const app = express();
 
-// const dburl = process.env.DB_URL
-const dburl = 'mongodb://127.0.0.1:27017/hotel'
+const dburl = process.env.DB_URL || 'mongodb://127.0.0.1:27017/hotel'
 
 mongoose
     .connect(dburl)
