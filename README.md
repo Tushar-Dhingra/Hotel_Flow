@@ -197,4 +197,4 @@ Project Link: [https://github.com/Tushar-Dhingra/Finance-Tracker](https://github
 [CSS.js]: https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white
 [CSS-url]: https://css.org/
 [Boot.js]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
-[Boot.url]: https://bootstrap.org/
+[Boot-url]: https://bootstrap.org/
