@@ -60,14 +60,14 @@
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
 * [![Javascript][Next.js]][Next-url]
-* [![HTML][HTML.js]][HTML-url]
+* [![HTML][React.js]][React-url]
 * [![CSS][CSS.js]][CSS-url]
 * [![TS][ts.js]][ts-url]
 * [![Mongo][Mongo.js]][Mongo-url]
 * [![Node][Node.js]][Node-url]
 * [![Amazon][Amazon.io]][Amazon-url]
 * [![Boot][Boot.js]][Boot-url]
-* [![JSON][JSON.io]][Json-url]
+* [![JSON][JSON.io]][JSON-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
