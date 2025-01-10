@@ -1,52 +1,8 @@
-<h3 align="center">Hotel Flow</h3>
-
-  <p align="center">
-    Welcome to  Hotel Flow, a full-stack website where users can create and review hotels
-    <br />
-    <a href="https://github.com/">View Demo</a>
-    ·
-    <a href="https://github.com/">Report Bug</a>
-    ·
-    <a href="https://github.com/">Request Feature</a>
-  </p>
-</div>
-
+## Hotel Flow
+Welcome to  Hotel Flow, a full-stack website where users can create and review hotels
 
 
 https://github.com/user-attachments/assets/48593e13-e984-4051-8dd6-27a71e0aeb6d
-
-
-
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
-  </ol>
-</details>
-
-
-
-<!-- ABOUT THE PROJECT -->
-## About The Project
 
 ## Features
 
@@ -55,13 +11,8 @@ https://github.com/user-attachments/assets/48593e13-e984-4051-8dd6-27a71e0aeb6d
 - Role-Based Deletion: Only the owner of a hotel or review can delete their respective entries.
 - Responsive Design: Fully responsive interface providing a consistent experience across devices.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 ### Built With
-
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
 * [![Javascript][Next.js]][Next-url]
 * [![HTML][React.js]][React-url]
@@ -72,9 +23,6 @@ This section should list any major frameworks/libraries used to bootstrap your p
 * [![Amazon][Amazon.io]][Amazon-url]
 * [![Boot][Boot.js]][Boot-url]
 * [![JSON][JSON.io]][JSON-url]
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 ## Getting Started
@@ -100,12 +48,6 @@ To get a local copy of the project up and running follow these steps:
     npm start
 
 6. Open your web browser and navigate to `http://localhost:3000` to see the app running locally.
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-
-
 
 
 <!-- CONTRIBUTING -->
@@ -123,8 +65,6 @@ Don't forget to give the project a star! Thanks again!
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 ## Usage
 - Register for an account or log in if you already have one.
@@ -138,19 +78,14 @@ Don't forget to give the project a star! Thanks again!
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 <!-- CONTACT -->
 ## Contact
 
-Tushar Dhingra - dhingraatushar@example.com
+Tushar Dhingra - dhingratushar512@example.com
 
-Project Link: [https://github.com/Tushar-Dhingra/Finance-Tracker](https://github.com/Tushar-Dhingra/Finance-Tracker)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
+Link: [https://github.com/Tushar-Dhingra/Finance-Tracker](https://github.com/Tushar-Dhingra/Finance-Tracker)
 
 
 <!-- ACKNOWLEDGMENTS -->
@@ -164,8 +99,6 @@ Project Link: [https://github.com/Tushar-Dhingra/Finance-Tracker](https://github
 * [GitHub Pages](https://pages.github.com)
 * [Font Awesome](https://fontawesome.com)
 * [React Icons](https://react-icons.github.io/react-icons/search)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
